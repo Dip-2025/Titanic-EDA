@@ -11,9 +11,11 @@ The EDA notebook covers the following:
 - Load the dataset
 - Display the first few rows
 - Summarize the dataset
+- 
 2 .Data Cleaning:
 - Handle missing values
 - Convert categorical variables to numeric
+- 
 3. Exploratory Data Analysis:
 -Univariate analysis (distribution of individual variables)
 - Bivariate analysis (relationships between pairs of variables)
